@@ -1,0 +1,17 @@
+- name: msg-1
+  debug:
+    msg: "Hi from msg1"
+
+- name: msg-2
+  debug:
+    msg: "Hi from msg2"
+    
+
+- name: msg-3
+  debug:
+    msg: "Hi from msg3"
+    
+- name: msg-4
+  debug:
+    msg: "Hi from msg4"
+    
