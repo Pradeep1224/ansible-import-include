@@ -7,7 +7,7 @@
     msg: "Hi from msg2"
     
 - name: change the variable
-  set_fact: #we can create in tasks using this
+  set_fact:                       #we can create in tasks using this
   os: "debian"
 
 - name: msg-3
