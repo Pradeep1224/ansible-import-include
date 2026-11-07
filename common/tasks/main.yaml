@@ -4,7 +4,7 @@
 
 - name: msg-2
   debug:
-    msg: "Hi from msg2"
+    mssg: "Hi from msg2"
     
 
 - name: msg-3
