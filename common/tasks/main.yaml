@@ -8,7 +8,7 @@
     
 - name: change the variable
   set_fact:                       #we can create in tasks using this
-  os: "debian"
+    os: "debian"
 
 - name: msg-3
   debug:
