@@ -17,4 +17,6 @@
 - name: msg-4
   debug:
     msg: "Hi from msg4"
+
+    #copies cnditon from the main task os = redhat....
     
